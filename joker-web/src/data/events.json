@@ -1,0 +1,32 @@
+[
+  {
+    "dia": "Miércoles",
+    "titulo": "Noche de Jazz & Bourbon",
+    "hora": "21:00 - 01:00",
+    "destacado": false
+  },
+  {
+    "dia": "Jueves",
+    "titulo": "Ladies Night Exclusivo",
+    "hora": "20:00 - 02:00",
+    "destacado": false
+  },
+  {
+    "dia": "Viernes",
+    "titulo": "Joker Sessions — DJ en vivo",
+    "hora": "22:00 - 03:00",
+    "destacado": true
+  },
+  {
+    "dia": "Sábado",
+    "titulo": "Speakeasy Secreto (acceso con contraseña)",
+    "hora": "22:00 - 04:00",
+    "destacado": true
+  },
+  {
+    "dia": "Domingo",
+    "titulo": "Sunday Vermouth Session",
+    "hora": "18:00 - 23:00",
+    "destacado": false
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "dressCode": "Elegante casual: camisa o blusa, calzado cerrado. Evitamos tenis deportivos, shorts y gorras.",
+  "horarios": {
+    "miercoles": "21:00 - 01:00",
+    "jueves": "20:00 - 02:00",
+    "viernes": "22:00 - 03:00",
+    "sabado": "22:00 - 04:00",
+    "domingo": "18:00 - 23:00"
+  },
+  "reservaciones": "Se pueden apartar mesas para grupos de hasta 10 personas desde el sitio. Para grupos mayores o renta del lugar completo, contactar por WhatsApp.",
+  "clickAndCollect": "Los clientes pueden ordenar y pagar en línea desde la sección de Menú y recoger directamente en barra presentando su código de orden.",
+  "categoriasMenu": ["Coctelería", "Cervecería", "Botana"]
+}

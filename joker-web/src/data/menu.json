@@ -1,0 +1,50 @@
+[
+  {
+    "id": "mojito-joker",
+    "nombre": "Mojito de Autor Joker",
+    "categoria": "Coctelería",
+    "precio": 145,
+    "descripcion": "Ron añejo, hierbabuena fresca, toque de jengibre y espuma de lima.",
+    "imagen": "/assets/img/mojito-joker.jpg"
+  },
+  {
+    "id": "michelada-onix",
+    "nombre": "Michelada Premium Ónix",
+    "categoria": "Cervecería",
+    "precio": 120,
+    "descripcion": "Cerveza artesanal oscura, reducción de tamarindo y chile fresco.",
+    "imagen": "/assets/img/michelada-onix.jpg"
+  },
+  {
+    "id": "old-fashioned-joker",
+    "nombre": "Old Fashioned de la Casa",
+    "categoria": "Coctelería",
+    "precio": 165,
+    "descripcion": "Bourbon reposado, amargos de naranja y toque ahumado en copa dorada.",
+    "imagen": "/assets/img/old-fashioned.jpg"
+  },
+  {
+    "id": "cerveza-negra-artesanal",
+    "nombre": "Stout Artesanal Carbón",
+    "categoria": "Cervecería",
+    "precio": 110,
+    "descripcion": "Notas de café tostado y chocolate amargo, producción local limitada.",
+    "imagen": "/assets/img/stout-carbon.jpg"
+  },
+  {
+    "id": "martini-joker",
+    "nombre": "Martini Dorado",
+    "categoria": "Coctelería",
+    "precio": 175,
+    "descripcion": "Ginebra premium, vermut seco y una hoja de oro comestible.",
+    "imagen": "/assets/img/martini-dorado.jpg"
+  },
+  {
+    "id": "tabla-maridaje",
+    "nombre": "Tabla de Maridaje Joker",
+    "categoria": "Botana",
+    "precio": 280,
+    "descripcion": "Selección de quesos, embutidos y frutos secos para acompañar la barra.",
+    "imagen": "/assets/img/tabla-maridaje.jpg"
+  }
+]
